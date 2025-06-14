@@ -1,4 +1,4 @@
-📊 Spreadsheet  Pipeline - Automating  Google Sheets Data to AWS DataLake
+# 📊 Spreadsheet  Pipeline - Automating  Google Sheets Data to AWS DataLake
 
 This project automates the process of extracting data from a Google Sheet and uploading it directly into a data lake (AWS S3) using a stack of modern data tools like Apache Airflow, Docker, and Terraform.
 
